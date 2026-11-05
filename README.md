@@ -1,4 +1,9 @@
-، إعدادات، وميزة في برنامج إدارة الحافظة **TAGS** (تطوير المطور أندرو زكي - Andrew Zaki):
+![Uploading App_logo_near_Microsoft_logo_f8657622_2K.jpg…]()
+
+
+، Get TAGS - Clipbar Manager from the Microsoft Store https://apps.microsoft.com/detail/9n2tnhh0s3rv?ocid=webpdpshare
+
+إعدادات، وميزة في برنامج إدارة الحافظة **TAGS** (تطوير المطور أندرو زكي - Andrew Zaki):
 
 ---
 `DOD911` 🔑 Archive Password / كلمة سر الملف
